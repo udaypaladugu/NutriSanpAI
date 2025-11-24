@@ -1,0 +1,7 @@
+{
+  "name": "NutriSnap AI",
+  "description": "Instantly analyze your meal's nutritional value by taking a photo. Powered by Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
